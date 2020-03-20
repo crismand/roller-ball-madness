@@ -9,7 +9,7 @@
 # [Aa]ssets/AssetStoreTools*
 
 # Ignore Github Editor Plugin for a 2017.4.37f1 Project
-[Aa]ssets/[Pp]lugins/GitHub/
+#[Aa]ssets/[Pp]lugins/GitHub/
 
 # Visual Studio cache directory
 .vs/
